@@ -9,39 +9,39 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/2da2ed1911c5c48b4df67c693fee2e28f9d33732/data/imgs/js.png"
       },
       {
         "name": "TypeScript",
-        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/icon-ts.svg"
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/2da2ed1911c5c48b4df67c693fee2e28f9d33732/data/imgs/icon-ts.svg"
       },
       {
         "name": "PHP",
-        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/php.png"
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/2da2ed1911c5c48b4df67c693fee2e28f9d33732/data/imgs/php.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/2da2ed1911c5c48b4df67c693fee2e28f9d33732/data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/2da2ed1911c5c48b4df67c693fee2e28f9d33732/data/imgs/css.png"
       },
       {
         "name": "Angular",
-        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/2da2ed1911c5c48b4df67c693fee2e28f9d33732/data/imgs/angular.png"
       },
       {
         "name": "MySQL",
-        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/2da2ed1911c5c48b4df67c693fee2e28f9d33732/data/imgs/mysql.png"
       },
       {
         "name": "Git",
-        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/2da2ed1911c5c48b4df67c693fee2e28f9d33732/data/imgs/git.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/2da2ed1911c5c48b4df67c693fee2e28f9d33732/data/imgs/github.png"
       }
     ],
     "softSkills": [
