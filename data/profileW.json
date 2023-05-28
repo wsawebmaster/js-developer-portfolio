@@ -9,39 +9,39 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/js.png"
+        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/js.png"
       },
       {
         "name": "TypeScript",
-        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/icon-ts.svg"
+        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/icon-ts.svg"
       },
       {
         "name": "PHP",
-        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/php.png"
+        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/php.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/html.png"
+        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/css.png"
+        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/css.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/angular.png"
+        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/angular.png"
       },
       {
         "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/mysql.png"
+        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/mysql.png"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/git.png"
+        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/git.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/github.png"
+        "logo": "https://github.com/wsawebmaster/js-developer-portfolio/blob/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
