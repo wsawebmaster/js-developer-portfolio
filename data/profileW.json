@@ -1,0 +1,94 @@
+{
+  "name": "Wagner Andrade",
+  "photo": "https://avatars.githubusercontent.com/u/52001930?s=400&u=80312c551b9104662d23ae93914b750f5e874086&v=4",
+  "job": "Desenvolvedor FullStack",
+  "location": "Ribeirão Preto - SP",
+  "phone": "(11) 9 8247 0496",
+  "email": "wsawebmaster@yahoo.com.br",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/js.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/icon-ts.svg"
+      },
+      {
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/php.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/css.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/angular.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/mysql.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/wsawebmaster/js-developer-portfolio/main/data/data/imgs/github.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Organização",
+      "Resiliência"
+    ]
+  },
+  "languages": [
+    "Português BR (Nativo)",
+    "Inglês (Intermediário)",
+    "Espanhol (Iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Consumindo a API Deck of Cards com JavaScript",
+      "url": "https://github.com/wsawebmaster/js-consumindo-api-deckofcards",
+      "git": true
+    },
+    {
+      "name": "Pokedex com JavaScript (DIO)",
+      "url": "https://github.com/wsawebmaster/js-pokedex",
+      "git": true
+    },
+    {
+      "name": "Landing Page Comida Boa",
+      "url": "https://wsawebmaster.github.io/comidaboa/index.html",
+      "git": true
+    },
+    {
+      "name": "Copa Card - NLW Rocketseat",
+      "url": "https://github.com/wsawebmaster/nlw-copa-card",
+      "git": true
+    },
+    {
+      "name": "Projeto Buzzfeed (DIO)",
+      "url": "https://github.com/wsawebmaster/angular-quizz-buzzfeed",
+      "git": true
+    }
+  ],
+      "professionalExperience": [
+          {
+              "name": "Reparador LA (Telefônica Brasil SA)",
+              "period": "Fevereiro 2013 - Atual",
+              "description": "Reparo em Linhas Telefônicas, Internet ADSL e VDSL, PayTV DTH+DTT em residências, apartamentos, escritórios e empresas. Correção de ligações na prumada de prédios; Atualmente cuido da Qualidade na execução de serviços Vivo Fibra na mão de obra própria e terceira; Atuando na Qualidade do Serviço Vivo Fibra desenvolvi o site https://www.suportespi.com.br/ facilitando serviços de campo e automatizei mais de 10 processos internos com controle de inserção de dados e fluxo para tratativas;"
+              }
+      ]
+}
